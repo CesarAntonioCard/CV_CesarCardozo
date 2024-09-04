@@ -2,10 +2,10 @@
 **ESTUDIANTE DE INGENIERÍA DE SISTEMAS COMPUTACIONALES**
 
 **Contacto:**  
-- **Teléfono:** +51 973494957  
-- **Email:** [cesarcardozobriceno@gmail.com](mailto:cesarcardozobriceno@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)  
-- **GitHub:** [github.com/CesarAntonioCard](https://github.com/CesarAntonioCard)
+- ![Teléfono](https://img.icons8.com/ios-filled/16/000000/phone.png) **Teléfono:** +51 973494957  
+- ![Email](https://img.icons8.com/ios-filled/16/000000/email.png) **Email:** [cesarcardozobriceno@gmail.com](mailto:cesarcardozobriceno@gmail.com)  
+- ![LinkedIn](https://img.icons8.com/ios-filled/16/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)  
+- ![GitHub](https://img.icons8.com/ios-filled/16/000000/github.png) **GitHub:** [github.com/CesarAntonioCard](https://github.com/CesarAntonioCard)
 ---
 
 ## SOBRE MÍ
