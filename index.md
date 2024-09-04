@@ -3,9 +3,9 @@
 
 **Contacto:**  
 - **Teléfono:** +51 973494957  
-- **Email:** cesarcardozobriceno@gmail.com  
-- **LinkedIn:** [www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)
-- **GitHub:** [https://github.com/CesarAntonioCard](https://github.com/CesarAntonioCard)
+- **Email:** [cesarcardozobriceno@gmail.com](mailto:cesarcardozobriceno@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)  
+- **GitHub:** [github.com/CesarAntonioCard](https://github.com/CesarAntonioCard)
 ---
 
 ## SOBRE MÍ
