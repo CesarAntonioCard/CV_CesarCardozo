@@ -2,10 +2,10 @@
 **ESTUDIANTE DE INGENIERÍA DE SISTEMAS COMPUTACIONALES**
 
 **Contacto:**  
-- ![Teléfono](https://img.icons8.com/ios-filled/16/000000/phone.png) **Teléfono:** +51 973494957  
-- ![Email](https://img.icons8.com/ios-filled/16/000000/email.png) **Email:** [cesarcardozobriceno@gmail.com](mailto:cesarcardozobriceno@gmail.com)  
-- ![LinkedIn](https://img.icons8.com/ios-filled/16/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)  
-- ![GitHub](https://img.icons8.com/ios-filled/16/000000/github.png) **GitHub:** [github.com/CesarAntonioCard](https://github.com/CesarAntonioCard)
+- ![Teléfono](https://img.icons8.com/ios-filled/20/000000/phone.png) **Teléfono:** +51 973494957  
+- ![Email](https://img.icons8.com/ios-filled/20/000000/email.png) **Email:** [cesarcardozobriceno@gmail.com](mailto:cesarcardozobriceno@gmail.com) 
+- ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) **GitHub:** [github.com/CesarAntonioCard](https://github.com/CesarAntonioCard) 
+- ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)  
 ---
 
 ## SOBRE MÍ
@@ -31,20 +31,21 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 ---
 
 ## HABILIDADES
-- **React:** Básico
-- **NodeJS:** Básico
-- **MySql:** Básico
-- **SQL Server:** Básico
-- **PostgreSQL:** Básico
-- **Git:** Básico
-- **C#:** Básico
-- **Java:** Básico
-- **JavaScript:** Básico
-- **PHP:** Básico
-- **Astro:** Básico
-- **AngularJs:** Básico
-- **HTML:** Básico
-- **CSS:** Básico
+- ![React](https://img.icons8.com/ios-filled/20/61CAE8/react-native.png) **React:** Básico
+- ![NodeJS](https://img.icons8.com/?size=20&id=hsPbhkOH4FMe&format=png&color=000000) **NodeJS:** Básico
+- ![MySql](https://img.icons8.com/?size=20&id=UFXRpPFebwa2&format=png&color=000000) **MySQL:** Básico
+- ![SQL Server](https://img.icons8.com/?size=20&id=laYYF3dV0Iew&format=png&color=000000) **SQL Server:** Básico
+- ![PostgreSQL](https://img.icons8.com/?size=20&id=38561&format=png&color=000000) **PostgreSQL:** Básico
+- ![Git](https://img.icons8.com/?size=20&id=20906&format=png&color=000000) **Git:** Básico
+- ![C#](https://img.icons8.com/?size=20&id=55205&format=png&color=860899) **C#:** Básico
+- ![Java](https://img.icons8.com/?size=20&id=13679&format=png&color=000000) **Java:** Básico
+- ![JavaScript](https://img.icons8.com/?size=20&id=108784&format=png&color=000000) **JavaScript:** Básico
+- ![PHP](https://img.icons8.com/?size=20&id=ylXrZF2zxsFE&format=png&color=000000) **PHP:** Básico
+- ![Astro](https://img.icons8.com/?size=20&id=lckHFUP7nJhG&format=png&color=000000) **Astro:** Básico
+- ![AngularJS](https://img.icons8.com/?size=20&id=71257&format=png&color=000000) **AngularJS:** Básico
+- ![HTML](https://img.icons8.com/?size=20&id=20909&format=png&color=000000) **HTML:** Básico
+- ![CSS](https://img.icons8.com/?size=20&id=21278&format=png&color=000000) **CSS:** Básico
+
 
 ---
 
