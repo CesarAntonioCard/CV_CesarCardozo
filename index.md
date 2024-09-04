@@ -28,7 +28,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
     </div>
 </div>
 
-### CURSOS
+## CURSOS
 - BASE DE DATOS AVAN. Y BIG DATA
 - COMPUTACIÓN GRÁFICA Y VISUAL
 - INTERACCIÓN HUMANO COMPUTADOR
@@ -109,12 +109,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 </tr>
 </table>
 
-
-
-
-
 ---
-
 
 <div style="text-align: center; margin-bottom: 60px;">
   <div style="display: grid; grid-template-columns: repeat(4, 1fr); justify-content: center; font-size: 5rem; font-weight: bold;">
@@ -132,10 +127,9 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
   </div>
 </div>
 
-
 <div style="display: flex; align-items: center; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
   
-<div style="text-align: center; border: 5px solid #336791; border-radius: 15px; padding: 20px; position: relative; background-color: #C0C0C0; width: 200px; height: 125px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+<div style="text-align: center; border: 5px solid #336791; border-radius: 15px; padding: 20px; position: relative; background-color: #C0C0C0; width: 220px; height: 170px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
   <div style="position: absolute; top: -60px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 20px solid transparent; border-right: 20px solid transparent; border-bottom: 20px solid #336791; z-index: -1;"></div>
   <div style="position: absolute; top: -50px; left: 50%; transform: translateX(-50%); width: 60px; height: 60px; border-radius: 50%; background-color: #fff; padding: 10px; border-top: 4px solid #336791; z-index: 1; display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/?size=40&id=38561&format=png&color=000000" alt="PostgreSQL" style="width: 40px; height: auto;">
@@ -147,7 +141,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 </div>
 
 
-<div style="text-align: center; border: 5px solid #808080; border-radius: 15px; padding: 20px; position: relative; background-color: #C0C0C0; width: 200px; height: 125px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+<div style="text-align: center; border: 5px solid #808080; border-radius: 15px; padding: 20px; position: relative; background-color: #C0C0C0;  width: 220px; height: 170px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
   <div style="position: absolute; top: -60px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 20px solid transparent; border-right: 20px solid transparent; border-bottom: 20px solid #808080; z-index: -1;"></div>
   <div style="position: absolute; top: -50px; left: 50%; transform: translateX(-50%); width: 60px; height: 60px; border-radius: 50%; background-color: #fff; padding: 10px; border-top: 5px solid #808080; z-index: 1; display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/?size=40&id=kg46nzoJrmTR&format=png&color=A9D122" alt="Express JS" style="width: 40px; height: auto;">
@@ -156,7 +150,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
   <p style="color: black; width: 100%; box-sizing: border-box; font-size: 18px; margin-top: 15px">Node.js web framework</p>
 </div>
 
-<div style="text-align: center; border: 5px solid #61DAFB; border-radius: 15px; padding: 20px; position: relative; background-color: #C0C0C0; width: 200px; height: 125px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+<div style="text-align: center; border: 5px solid #61DAFB; border-radius: 15px; padding: 20px; position: relative; background-color: #C0C0C0;  width: 220px; height: 170px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
   <div style="position: absolute; top: -60px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 20px solid transparent; border-right: 20px solid transparent; border-bottom: 20px solid #61DAFB; z-index: -1;"></div>
   <div style="position: absolute; top: -50px; left: 50%; transform: translateX(-50%); width: 60px; height: 60px; border-radius: 50%; background-color: #fff; padding: 10px; border-top: 5px solid #61DAFB; z-index: 1; display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/ios-filled/40/61CAE8/react-native.png" alt="React" style="width: 40px; height: auto;">
@@ -165,7 +159,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
   <p style="color: black; width: 100%; box-sizing: border-box; font-size: 18px; margin-top: 15px">Front-end JavaScript library</p>
 </div>
 
-<div style="text-align: center; border: 5px solid #8CC84B; border-radius: 15px; padding: 20px; position: relative; background-color: #C0C0C0; width: 200px; height: 125px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+<div style="text-align: center; border: 5px solid #8CC84B; border-radius: 15px; padding: 20px; position: relative; background-color: #C0C0C0;  width: 220px; height: 170px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
   <div style="position: absolute; top: -60px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 20px solid transparent; border-right: 20px solid transparent; border-bottom: 20px solid #8CC84B; z-index: -1;"></div>
   <div style="position: absolute; top: -50px; left: 50%; transform: translateX(-50%); width: 60px; height: 60px; border-radius: 50%; background-color: #fff; padding: 10px; border-top: 5px solid #8CC84B; z-index: 1; display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/?size=40&id=hsPbhkOH4FMe&format=png&color=000000" alt="NodeJS" style="width: 40px; height: auto;">
