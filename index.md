@@ -41,8 +41,6 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 
 ## HABILIDADES
 
-## HABILIDADES
-
 <table>
 <tr>
   <td style="padding-right: 20px;">
