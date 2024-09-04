@@ -46,6 +46,30 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 - ![HTML](https://img.icons8.com/?size=20&id=20909&format=png&color=000000) **HTML:** Básico
 - ![CSS](https://img.icons8.com/?size=20&id=21278&format=png&color=000000) **CSS:** Básico
 
+---
+<div style="text-align: center; margin-bottom: 20px;">
+  <h1>Stack</h1>
+</div>
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/ios-filled/40/61CAE8/react-native.png" alt="React" style="display: block; margin: 0 auto;">
+    <p>React</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/?size=40&id=hsPbhkOH4FMe&format=png&color=000000" alt="NodeJS" style="display: block; margin: 0 auto;">
+    <p>NodeJS</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/?size=40&id=kg46nzoJrmTR&format=png&color=A9D122" alt="React" style="display: block; margin: 0 auto;">
+    <p>Express JS</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/?size=40&id=38561&format=png&color=000000" alt="PostgreSQL" style="display: block; margin: 0 auto;">
+    <p>PostgreSQL</p>
+  </div>
+</div>
+
+
 
 ---
 
