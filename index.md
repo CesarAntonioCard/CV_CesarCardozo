@@ -45,29 +45,29 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 <tr>
   <td style="padding-right: 20px;">
     <img src="https://img.icons8.com/ios-filled/30/61CAE8/react-native.png" alt="React" style="width: 30px; height: auto;">
-    <p style="font-size: 18px; margin: 0;"><strong>React:</strong> Básico</p>
+    <p style="font-size: 18px; margin: 0;"><strong>React:</strong> Intermedio</p>
   </td>
   <td style="padding-right: 20px;">
     <img src="https://img.icons8.com/?size=30&id=hsPbhkOH4FMe&format=png&color=000000" alt="NodeJS" style="width: 30px; height: auto;">
-    <p style="font-size: 18px; margin: 0;"><strong>NodeJS:</strong> Básico</p>
+    <p style="font-size: 18px; margin: 0;"><strong>NodeJS:</strong> Intermedio</p>
   </td>
   <td style="padding-right: 20px;">
     <img src="https://img.icons8.com/?size=30&id=UFXRpPFebwa2&format=png&color=000000" alt="MySql" style="width: 30px; height: auto;">
-    <p style="font-size: 18px; margin: 0;"><strong>MySQL:</strong> Básico</p>
+    <p style="font-size: 18px; margin: 0;"><strong>MySQL:</strong> Intermedio</p>
   </td>
   <td style="padding-right: 20px;">
     <img src="https://img.icons8.com/?size=30&id=20909&format=png&color=000000" alt="HTML" style="width: 30px; height: auto;">
-    <p style="font-size: 18px; margin: 0;"><strong>HTML:</strong> Básico</p>
+    <p style="font-size: 18px; margin: 0;"><strong>HTML:</strong> Intermedio</p>
   </td>
 </tr>
 <tr>
   <td style="padding-right: 20px;">
     <img src="https://img.icons8.com/?size=30&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" style="width: 30px; height: auto;">
-    <p style="font-size: 18px; margin: 0;"><strong>SQL Server:</strong> Básico</p>
+    <p style="font-size: 18px; margin: 0;"><strong>SQL Server:</strong> Intermedio</p>
   </td>
   <td style="padding-right: 20px;">
     <img src="https://img.icons8.com/?size=30&id=38561&format=png&color=000000" alt="PostgreSQL" style="width: 30px; height: auto;">
-    <p style="font-size: 18px; margin: 0;"><strong>PostgreSQL:</strong> Básico</p>
+    <p style="font-size: 18px; margin: 0;"><strong>PostgreSQL:</strong> Intermedio</p>
   </td>
   <td style="padding-right: 20px;">
     <img src="https://img.icons8.com/?size=30&id=20906&format=png&color=000000" alt="Git" style="width: 30px; height: auto;">
@@ -75,7 +75,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
   </td>
   <td style="padding-right: 20px;">
     <img src="https://img.icons8.com/?size=30&id=21278&format=png&color=000000" alt="CSS" style="width: 30px; height: auto;">
-    <p style="font-size: 18px; margin: 0;"><strong>CSS:</strong> Básico</p>
+    <p style="font-size: 18px; margin: 0;"><strong>CSS:</strong> Intermedio</p>
   </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
   </td>
   <td style="padding-right: 20px;">
     <img src="https://img.icons8.com/?size=30&id=108784&format=png&color=000000" alt="JavaScript" style="width: 30px; height: auto;">
-    <p style="font-size: 18px; margin: 0;"><strong>JavaScript:</strong> Básico</p>
+    <p style="font-size: 18px; margin: 0;"><strong>JavaScript:</strong> Intermedio</p>
   </td>
     <td></td>
 </tr>
@@ -181,12 +181,18 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 ---
 
 ## EXPERIENCIA
-**HML INGENIERIA, CONSTRUCCIÓN Y SERVICIOS GENERALES, Agosto 2023 – Noviembre 2023**  
+**HML INGENIERIA CONSTRUCCION Y SERVICIOS GENERALES,**  
+*Agosto 2023 – Noviembre 2023*
+  
 *Pasante en Desarrollo de software*  
 - Lideré el desarrollo integral de un software en C#, que abarca la gestión de una agenda de clientes, registro de productos, servicios, equipos, y cotizaciones con cálculo de utilidad. Implementé una base de datos en SQL Server para garantizar la funcionalidad y el almacenamiento eficiente de la información en todas las áreas del sistema.
 
-**GRUPO NEON HOUSE LED, AGOSTO 2024 – NOVIEMBRE 2024**  
-*Practicante de Desarrollo de WEB*  
+---
+
+**GRUPO NEON HOUSE LED,**  
+*Agosto 2024 – Noviembre 2024*
+
+*Practicante de Desarrollo web*  
 - Gestioné la identificación y solución de errores visuales en las páginas web de YUNTAS, TAMI y NHL utilizando tecnologías como MySQL, PHP, HTML y CSS. Desarrollé y modifiqué scripts para mejorar la funcionalidad, evaluando y optimizando el rendimiento, la accesibilidad, las prácticas recomendadas y el SEO. Además, realicé sugerencias estratégicas para la mejora continua de las páginas.
 
 ---
