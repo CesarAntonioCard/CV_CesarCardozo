@@ -8,12 +8,12 @@
 - ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)  
 ---
 
-## SOBRE MÍ
+## ![Yo](https://img.icons8.com/?size=20&id=104410&format=png&color=000000) SOBRE MÍ
 Soy un estudiante que está cursando el noveno ciclo apasionado por el desarrollo de software, web y análisis de datos. Me considero un excelente compañero de equipo, organizado, puntual y responsable. Disfruto de aprender cosas nuevas y mi objetivo es encontrar un puesto desafiante y dinámico donde pueda compartir mis conocimientos y habilidades, así como adquirir nuevos conocimientos y experiencias.
 
 ---
 
-## EDUCACIÓN
+## ![Educacion](https://img.icons8.com/?size=20&id=73815&format=png&color=000000) EDUCACIÓN
 <div style="display: flex; flex-direction: column; align-items: flex-start; padding: 10px; max-width: 600px;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXVyN-bCrvNCuW2q8Z88-kpCvBnaul5AGpQ&s" alt="UPN" style="width: 40px; height: auto; margin-right: 10px; margin-top: -90px;">
@@ -28,7 +28,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
     </div>
 </div>
 
-## CURSOS
+## ![Cursos](https://img.icons8.com/?size=20&id=41414&format=png&color=000000) CURSOS
 - BASE DE DATOS AVAN. Y BIG DATA
 - COMPUTACIÓN GRÁFICA Y VISUAL
 - INTERACCIÓN HUMANO COMPUTADOR
@@ -39,7 +39,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
   
 ---
 
-## HABILIDADES
+## ![Habilidades](https://img.icons8.com/?size=20&id=100034&format=png&color=000000) HABILIDADES
 
 <table>
 <tr>
@@ -171,16 +171,28 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
   
 </div>
 
-
-
 <br>
-
-## IDIOMAS
-- Inglés nivel básico
 
 ---
 
-## EXPERIENCIA
+## ![Idiomas](https://img.icons8.com/?size=20&id=iUIEsozLMUH9&format=png&color=000000) IDIOMAS
+<div style="display: flex; flex-direction: column; align-items: flex-start; padding: 10px; max-width: 600px;">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYFnoY6onxjsZcpgL9FQJFwexwE3_rX2TeA&s" alt="UPN" style="width: 85px; height: auto; margin-right: 10px; margin-top: -30px;">
+        <div>
+            <h1 style="margin: 0;">Ingles</h1>
+            <p style="margin: 0;">Convenio de UPN y UPC</p>
+            <ul style="margin-right: 10px; font-size: 15px">
+                <li><strong>Nivel:</strong> A2</li>
+                <li><strong>Promedio:</strong> 17.33</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+---
+
+## ![Experiencia](https://img.icons8.com/?size=20&id=123838&format=png&color=000000) EXPERIENCIA
 **HML INGENIERIA CONSTRUCCION Y SERVICIOS GENERALES,**  
 *Agosto 2023 – Noviembre 2023*
   
