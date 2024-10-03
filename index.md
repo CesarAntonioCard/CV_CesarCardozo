@@ -91,7 +91,10 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
     <img src="https://img.icons8.com/?size=30&id=108784&format=png&color=000000" alt="JavaScript" style="width: 30px; height: auto;">
     <p style="font-size: 18px; margin: 0;"><strong>JavaScript:</strong> Intermedio</p>
   </td>
-    <td></td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=13441&format=png&color=000000" alt="JavaScript" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>Python:</strong> Básico</p>
+  </td>
 </tr>
 <tr>
   <td style="padding-right: 20px;">
@@ -209,16 +212,23 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 
 ---
 
-## CERTIFICADOS
-- **React De cero a experto (Hooks y MERN)**  Udemy
-- **NodeJS De cero a experto** Udemy
-- **SQL de cero: Tu guía práctica con PostgresSQL** Udemy
-- **Introducción a la Seguridad Cibernética** Cisco
-- **NDG Linux Essentials** Cisco
-- **Artificial Intelligence Fundamentals** IBM
+## ![Certificados](https://img.icons8.com/?size=20&id=11169&format=png&color=000000) CERTIFICADOS
+- [**React De cero a experto (Hooks y MERN)**  Udemy](https://www.udemy.com/certificate/UC-680b84f2-c3e2-40bc-ba6c-3e822ec501aa/)
+- [**NodeJS De cero a experto** Udemy](https://www.udemy.com/certificate/UC-3bacc1dd-c199-4d43-9832-e2f518b5a06c/)
+- [**SQL de cero: Tu guía práctica con PostgresSQL** Udemy](https://www.udemy.com/certificate/UC-046c0414-0cb8-4bc4-8b04-051b95507de8/)
+- [**Artificial Intelligence Fundamentals** IBM](https://www.credly.com/badges/4958df25-3557-467e-87b5-8279b5523aae/print)
 - **Gobierno y gestión de la seguridad de la información** Fundación Telefónica
 - **Introducción a la Seguridad de la Información** Fundación Telefónica
-- **Introduction to User Experience Design** COURSERA
-- **Scrum Foundation Professional Certificate SFPC** CertiProf
-- **CyberSecurity Awareness - CAPC** CertiProf
-- **Business Intelligence Foundation BIFPC** CertiProf
+- **Diseño con HTML5 + CSS** Fundación Telefónica
+- **Programación con JavaScript** Fundación Telefónica
+- **Introducción a la Seguridad Cibernética** Cisco
+- **NDG Linux Essentials** Cisco
+- [**Introduction to User Experience Design** COURSERA](https://www.coursera.org/account/accomplishments/verify/ETKM9VSH3GWA)
+- [**Scrum Foundation Professional Certificate SFPC** CertiProf](https://www.credly.com/badges/83c48813-9e7d-42eb-986f-c3c28eb378e1/public_url)
+- [**CyberSecurity Awareness - CAPC** CertiProf](https://www.credly.com/badges/83fd9f18-367e-40e7-8ee6-1c913ca0595c/linked_in_profile)
+- [**Business Intelligence Foundation BIFPC** CertiProf](https://www.credly.com/badges/81045be3-1261-4ea8-8950-5b242bc15a3b/public_url)
+- [**Data Analysis Using Python** IBM](https://www.credly.com/badges/9cb612cf-5785-4272-9bd0-9e2e436561fc/linked_in_profile)
+
+
+
+
