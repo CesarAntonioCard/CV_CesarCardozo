@@ -1,19 +1,24 @@
 # CÉSAR ANTONIO CARDOZO BRICEÑO
+
 **ESTUDIANTE DE INGENIERÍA DE SISTEMAS COMPUTACIONALES**
 
-**Contacto:**  
-- ![Teléfono](https://img.icons8.com/ios-filled/20/000000/phone.png) **Teléfono:** +51 973 944 957  
-- ![Email](https://img.icons8.com/ios-filled/20/000000/email.png) **Email:** [cesarcardozobriceno@gmail.com](mailto:cesarcardozobriceno@gmail.com) 
-- ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) **GitHub:** [github.com/CesarAntonioCard](https://github.com/CesarAntonioCard) 
-- ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)  
+**Contacto:**
+
+- ![Teléfono](https://img.icons8.com/ios-filled/20/000000/phone.png) **Teléfono:** +51 973 944 957
+- ![Email](https://img.icons8.com/ios-filled/20/000000/email.png) **Email:** [cesarcardozobriceno@gmail.com](mailto:cesarcardozobriceno@gmail.com)
+- ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) **GitHub:** [github.com/CesarAntonioCard](https://github.com/CesarAntonioCard)
+- ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)
+
 ---
 
 ## ![Yo](https://img.icons8.com/?size=20&id=104410&format=png&color=000000) SOBRE MÍ
+
 Soy un estudiante que está cursando el noveno ciclo apasionado por el desarrollo de software, web y análisis de datos. Me considero un excelente compañero de equipo, organizado, puntual y responsable. Disfruto de aprender cosas nuevas y mi objetivo es encontrar un puesto desafiante y dinámico donde pueda compartir mis conocimientos y habilidades, así como adquirir nuevos conocimientos y experiencias.
 
 ---
 
 ## ![Educacion](https://img.icons8.com/?size=20&id=73815&format=png&color=000000) EDUCACIÓN
+
 <div style="display: flex; flex-direction: column; align-items: flex-start; padding: 10px; max-width: 600px;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXVyN-bCrvNCuW2q8Z88-kpCvBnaul5AGpQ&s" alt="UPN" style="width: 40px; height: auto; margin-right: 10px; margin-top: -90px;">
@@ -29,14 +34,15 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 </div>
 
 ## ![Cursos](https://img.icons8.com/?size=20&id=41414&format=png&color=000000) CURSOS
+
 - BASE DE DATOS AVAN. Y BIG DATA
 - COMPUTACIÓN GRÁFICA Y VISUAL
 - INTERACCIÓN HUMANO COMPUTADOR
 - MODELAMIENTO Y ANÁLISIS DE SOFTWARE
-- ANALISIS DE ALGORITMOS Y ESTRATEGIAS  DE PROGRAMACIÓN
+- ANALISIS DE ALGORITMOS Y ESTRATEGIAS DE PROGRAMACIÓN
 - ESTRUCTURA DE DATOS
 - TÉCNICAS DE PROGRAMACIÓN ORIENTADA A OBJETOS
-  
+
 ---
 
 ## ![Habilidades](https://img.icons8.com/?size=20&id=100034&format=png&color=000000) HABILIDADES
@@ -143,7 +149,6 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
   <p style="color: black; width: 100%; box-sizing: border-box; font-size: 18px; margin-top: 15px; text-align: center;">Object-relational database</p>
 </div>
 
-
 <div style="text-align: center; border: 5px solid #808080; border-radius: 15px; padding: 20px; position: relative; background-color: #C0C0C0;  width: 220px; height: 170px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
   <div style="position: absolute; top: -60px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 20px solid transparent; border-right: 20px solid transparent; border-bottom: 20px solid #808080; z-index: -1;"></div>
   <div style="position: absolute; top: -50px; left: 50%; transform: translateX(-50%); width: 60px; height: 60px; border-radius: 50%; background-color: #fff; padding: 10px; border-top: 5px solid #808080; z-index: 1; display: flex; align-items: center; justify-content: center;">
@@ -171,7 +176,6 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
   <p style="color: black; width: 100%; box-sizing: border-box; font-size: 18px; margin-top: 15px">JavaScript runtime environment</p>
 </div>
 
-  
 </div>
 
 <br>
@@ -179,6 +183,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 ---
 
 ## ![Idiomas](https://img.icons8.com/?size=20&id=iUIEsozLMUH9&format=png&color=000000) IDIOMAS
+
 <div style="display: flex; flex-direction: column; align-items: flex-start; padding: 10px; max-width: 600px;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYFnoY6onxjsZcpgL9FQJFwexwE3_rX2TeA&s" alt="UPN" style="width: 85px; height: auto; margin-right: 10px; margin-top: -30px;">
@@ -196,24 +201,28 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 ---
 
 ## ![Experiencia](https://img.icons8.com/?size=20&id=123838&format=png&color=000000) EXPERIENCIA
+
 **HML INGENIERIA CONSTRUCCION Y SERVICIOS GENERALES,**  
-*Agosto 2023 – Noviembre 2023*
-  
-*Pasante en Desarrollo de software*  
+_Agosto 2023 – Noviembre 2023_
+
+_Pasante en Desarrollo de software_
+
 - Lideré el desarrollo integral de un software en C#, que abarca la gestión de una agenda de clientes, registro de productos, servicios, equipos, y cotizaciones con cálculo de utilidad. Implementé una base de datos en SQL Server para garantizar la funcionalidad y el almacenamiento eficiente de la información en todas las áreas del sistema.
 
 ---
 
 **GRUPO NEON HOUSE LED,**  
-*Agosto 2024 – Noviembre 2024*
+_Agosto 2024 – Octubre 2024_
 
-*Practicante de Desarrollo web*  
-- Gestioné la identificación y solución de errores visuales en las páginas web de YUNTAS, TAMI y NHL utilizando tecnologías como MySQL, PHP, HTML y CSS. Desarrollé y modifiqué scripts para mejorar la funcionalidad, evaluando y optimizando el rendimiento, la accesibilidad, las prácticas recomendadas y el SEO. Además, realicé sugerencias estratégicas para la mejora continua de las páginas.
+_Practicante de Desarrollo web_
+
+- Gestioné la identificación y solución de errores visuales en las páginas web de YUNTAS, TAMI y NHL utilizando PHP, HTML y CSS. Desarrollé y modifiqué scripts para mejorar la funcionalidad de las plataformas, optimizando el rendimiento, accesibilidad, prácticas recomendadas y SEO. Además, proporcioné recomendaciones estratégicas para la mejora continua de las páginas. También colaboré en el proceso de reclutamiento, realizando pruebas técnicas a candidatos para evaluar sus habilidades.
 
 ---
 
 ## ![Certificados](https://img.icons8.com/?size=20&id=11169&format=png&color=000000) CERTIFICADOS
-- [**React De cero a experto (Hooks y MERN)**  Udemy](https://www.udemy.com/certificate/UC-680b84f2-c3e2-40bc-ba6c-3e822ec501aa/)
+
+- [**React De cero a experto (Hooks y MERN)** Udemy](https://www.udemy.com/certificate/UC-680b84f2-c3e2-40bc-ba6c-3e822ec501aa/)
 - [**NodeJS De cero a experto** Udemy](https://www.udemy.com/certificate/UC-3bacc1dd-c199-4d43-9832-e2f518b5a06c/)
 - [**SQL de cero: Tu guía práctica con PostgresSQL** Udemy](https://www.udemy.com/certificate/UC-046c0414-0cb8-4bc4-8b04-051b95507de8/)
 - [**Artificial Intelligence Fundamentals** IBM](https://www.credly.com/badges/4958df25-3557-467e-87b5-8279b5523aae/print)
@@ -228,7 +237,3 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 - [**CyberSecurity Awareness - CAPC** CertiProf](https://www.credly.com/badges/83fd9f18-367e-40e7-8ee6-1c913ca0595c/linked_in_profile)
 - [**Business Intelligence Foundation BIFPC** CertiProf](https://www.credly.com/badges/81045be3-1261-4ea8-8950-5b242bc15a3b/public_url)
 - [**Data Analysis Using Python** IBM](https://www.credly.com/badges/9cb612cf-5785-4272-9bd0-9e2e436561fc/linked_in_profile)
-
-
-
-
