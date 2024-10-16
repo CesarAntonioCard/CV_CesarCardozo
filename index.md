@@ -115,6 +115,10 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
     <img src="https://img.icons8.com/?size=30&id=71257&format=png&color=000000" alt="AngularJS" style="width: 30px; height: auto;">
     <p style="font-size: 18px; margin: 0;"><strong>AngularJS:</strong> Básico</p>
   </td>
+    <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=qYfwpsRXEcpc&format=png&color=000000" alt="Power BI" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>Power BI:</strong> Básico</p>
+  </td>
 </tr>
 </table>
 
