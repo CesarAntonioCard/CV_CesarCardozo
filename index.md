@@ -11,13 +11,13 @@
 
 ---
 
-## ![Yo](https://img.icons8.com/?size=20&id=104410&format=png&color=000000) SOBRE MÍ
+## ![Yo](https://img.icons8.com/?size=30&id=104410&format=png&color=000000) SOBRE MÍ
 
 Soy un estudiante que está cursando el noveno ciclo apasionado por el desarrollo de software, web y análisis de datos. Me considero un excelente compañero de equipo, organizado, puntual y responsable. Disfruto de aprender cosas nuevas y mi objetivo es encontrar un puesto desafiante y dinámico donde pueda compartir mis conocimientos y habilidades, así como adquirir nuevos conocimientos y experiencias.
 
 ---
 
-## ![Educacion](https://img.icons8.com/?size=20&id=73815&format=png&color=000000) EDUCACIÓN
+## ![Educacion](https://img.icons8.com/?size=30&id=73815&format=png&color=000000) EDUCACIÓN
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; padding: 10px; max-width: 600px;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -33,19 +33,27 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
     </div>
 </div>
 
-## ![Cursos](https://img.icons8.com/?size=20&id=41414&format=png&color=000000) CURSOS
+---
 
-- BASE DE DATOS AVAN. Y BIG DATA
-- COMPUTACIÓN GRÁFICA Y VISUAL
-- INTERACCIÓN HUMANO COMPUTADOR
-- MODELAMIENTO Y ANÁLISIS DE SOFTWARE
-- ANALISIS DE ALGORITMOS Y ESTRATEGIAS DE PROGRAMACIÓN
-- ESTRUCTURA DE DATOS
-- TÉCNICAS DE PROGRAMACIÓN ORIENTADA A OBJETOS
+## ![Idiomas](https://img.icons8.com/?size=30&id=iUIEsozLMUH9&format=png&color=000000) IDIOMAS
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; padding: 10px; max-width: 600px;">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYFnoY6onxjsZcpgL9FQJFwexwE3_rX2TeA&s" alt="UPN" style="width: 85px; height: auto; margin-right: 10px; margin-top: -30px;">
+        <div>
+            <h1 style="margin: 0;">Ingles</h1>
+            <p style="margin: 0;">Convenio de UPN y UPC</p>
+            <ul style="margin-right: 10px; font-size: 15px">
+                <li><strong>Nivel:</strong> A2</li>
+                <li><strong>Promedio:</strong> 17.33</li>
+            </ul>
+        </div>
+    </div>
+</div>
 
 ---
 
-## ![Habilidades](https://img.icons8.com/?size=20&id=100034&format=png&color=000000) HABILIDADES
+## ![Habilidades](https://img.icons8.com/?size=30&id=100034&format=png&color=000000) HABILIDADES
 
 <table>
 <tr>
@@ -186,32 +194,14 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 
 ---
 
-## ![Idiomas](https://img.icons8.com/?size=20&id=iUIEsozLMUH9&format=png&color=000000) IDIOMAS
+## ![Experiencia](https://img.icons8.com/?size=30&id=123838&format=png&color=000000) EXPERIENCIA
 
-<div style="display: flex; flex-direction: column; align-items: flex-start; padding: 10px; max-width: 600px;">
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYFnoY6onxjsZcpgL9FQJFwexwE3_rX2TeA&s" alt="UPN" style="width: 85px; height: auto; margin-right: 10px; margin-top: -30px;">
-        <div>
-            <h1 style="margin: 0;">Ingles</h1>
-            <p style="margin: 0;">Convenio de UPN y UPC</p>
-            <ul style="margin-right: 10px; font-size: 15px">
-                <li><strong>Nivel:</strong> A2</li>
-                <li><strong>Promedio:</strong> 17.33</li>
-            </ul>
-        </div>
-    </div>
-</div>
+**Corte Superior de Justicia Cajamarca ,**  
+_Octubre 2024_
 
----
+_Auxiliar de TI_
 
-## ![Experiencia](https://img.icons8.com/?size=20&id=123838&format=png&color=000000) EXPERIENCIA
-
-**HML INGENIERIA CONSTRUCCION Y SERVICIOS GENERALES,**  
-_Agosto 2023 – Noviembre 2023_
-
-_Pasante en Desarrollo de software_
-
-- Lideré el desarrollo integral de un software en C#, que abarca la gestión de una agenda de clientes, registro de productos, servicios, equipos, y cotizaciones con cálculo de utilidad. Implementé una base de datos en SQL Server para garantizar la funcionalidad y el almacenamiento eficiente de la información en todas las áreas del sistema.
+- Gestión y administración de usuarios en Active Directory (creación, modificación y eliminación de cuentas, asignación de permisos y grupos de seguridad). Inventariado y control de los equipos informáticos, asegurando que todos los dispositivos estén correctamente documentados y actualizados en el sistema de seguimiento. Asistencia en la configuración de la red y resolución de problemas de conectividad, garantizando que todos los equipos estén correctamente conectados y operativos.
 
 ---
 
@@ -224,7 +214,16 @@ _Practicante de Desarrollo web_
 
 ---
 
-## ![Certificados](https://img.icons8.com/?size=20&id=11169&format=png&color=000000) CERTIFICADOS
+**HML INGENIERIA CONSTRUCCION Y SERVICIOS GENERALES,**  
+_Agosto 2023 – Noviembre 2023_
+
+_Pasante en Desarrollo de software_
+
+- Lideré el desarrollo integral de un software en C#, que abarca la gestión de una agenda de clientes, registro de productos, servicios, equipos, y cotizaciones con cálculo de utilidad. Implementé una base de datos en SQL Server para garantizar la funcionalidad y el almacenamiento eficiente de la información en todas las áreas del sistema.
+
+---
+
+## ![Certificados](https://img.icons8.com/?size=30&id=11169&format=png&color=000000) CERTIFICADOS
 
 - [**React De cero a experto (Hooks y MERN)** Udemy](https://www.udemy.com/certificate/UC-680b84f2-c3e2-40bc-ba6c-3e822ec501aa/)
 - [**NodeJS De cero a experto** Udemy](https://www.udemy.com/certificate/UC-3bacc1dd-c199-4d43-9832-e2f518b5a06c/)
