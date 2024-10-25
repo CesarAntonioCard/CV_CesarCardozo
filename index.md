@@ -196,7 +196,7 @@ Soy un estudiante que está cursando el noveno ciclo apasionado por el desarroll
 
 ## ![Experiencia](https://img.icons8.com/?size=30&id=123838&format=png&color=000000) EXPERIENCIA
 
-**Corte Superior de Justicia Cajamarca ,**  
+**CORTE SUPERIOR DE JSUTICIA CAJAMARCA ,**  
 _Octubre 2024_
 
 _Auxiliar de TI_
